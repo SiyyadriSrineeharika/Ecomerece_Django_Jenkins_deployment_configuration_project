@@ -48,9 +48,6 @@ Comprehensive documentation is available in the `docs/` directory. This includes
 - `docs/deployment.md`: Jenkins setup and deployment pipeline details.
 - `docs/architecture.md`: Overview of the project's architecture and design.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
